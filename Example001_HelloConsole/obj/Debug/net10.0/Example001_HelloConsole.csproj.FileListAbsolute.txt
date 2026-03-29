@@ -1,0 +1,14 @@
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/bin/Debug/net10.0/Example001_HelloConsole
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/bin/Debug/net10.0/Example001_HelloConsole.deps.json
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/bin/Debug/net10.0/Example001_HelloConsole.runtimeconfig.json
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/bin/Debug/net10.0/Example001_HelloConsole.dll
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/bin/Debug/net10.0/Example001_HelloConsole.pdb
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/obj/Debug/net10.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/obj/Debug/net10.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/obj/Debug/net10.0/Example001_HelloConsole.AssemblyInfo.cs
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/obj/Debug/net10.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/obj/Debug/net10.0/Example001_HelloConsole.dll
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/obj/Debug/net10.0/refint/Example001_HelloConsole.dll
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/obj/Debug/net10.0/Example001_HelloConsole.pdb
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/obj/Debug/net10.0/Example001_HelloConsole.genruntimeconfig.cache
+/home/fr0st1x/Документы/Обучение/Examples/Example001_HelloConsole/obj/Debug/net10.0/ref/Example001_HelloConsole.dll
