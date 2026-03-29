@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kq3ygG2lDbs=",
+  "success": true,
+  "projectFilePath": "/home/fr0st1x/Документы/Обучение/Examples/Example002_HelloUzver/Example002_HelloUzver.csproj",
+  "expectedPackageFiles": [
+    "/home/fr0st1x/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
